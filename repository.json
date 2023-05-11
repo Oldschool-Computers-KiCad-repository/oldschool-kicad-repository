@@ -1,0 +1,23 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+		    "email": "alba0404@orange.fr",
+            "web": "https://github.com/Alba0404"
+        },
+        "name": "Alexandre Barrat (Alba0404)"
+    },
+    "name": "Oldschool computers repository",
+    "packages": {
+        "sha256": "49F3096D3916129C1B985B853562A7A50E87FBC86560AC0929C439F3AD0F671D",
+        "update_time_utc": "2023-05-11 19:41:00",
+        "update_timestamp": 1683826860,
+        "url": "https://raw.githubusercontent.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository/main/packages.json"
+    },
+    "resources": {
+        "sha256": "786491DDEBB2E63D69EAB891B3717EEE6730458615CF62000289A288ABA4AEA8",
+        "update_time_utc": "2023-05-11 19:49:00",
+        "update_timestamp": 1683827340,
+        "url": "https://github.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository/raw/main/resources.zip"
+    }
+}
