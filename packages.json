@@ -1,0 +1,39 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "type": "library",
+            "name": "GPIB KiCad library",
+            "description": "Add GPIB components and connectors to KiCad.",
+            "description_full": "KiCad Symbol, footprint and 3d libraries for GPIB components.",
+            "identifier": "fr.alba0404.oldschool-kicad-repository.gpib-kicad-library",
+            "license": "CC-BY-SA-4.0",
+            "author": {
+                "name": "Alexandre Barrat (Alba0404)",
+                "contact": {
+                    "email": "alba0404@orange.fr",
+                    "web": "https://github.com/Alba0404"
+                }
+            },
+            "resources": {
+                "github": "https://github.com/Alba0404/gpib-kicad-library"
+            },
+            "tags": [
+                "footprints",
+                "symbols",
+                "gpib"
+			],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "7.0",
+                    "download_sha256": "85A10161303DBB09AED6DFBAD3162A69523DB9CEFBDAE313FD449F7347C23AE0",
+                    "download_size": 10329,
+                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.0.0/gpib-kicad-library-1.0.0-pcm.zip",
+                    "install_size": 63634
+                }
+            ]
+        }
+    ]
+}
