@@ -21,7 +21,7 @@
             "tags": [
                 "footprints",
                 "symbols",
-				"3dmodels",
+                "3dmodels",
                 "gpib"
 			],
             "versions": [
@@ -34,7 +34,7 @@
                     "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.0.0/gpib-kicad-library-1.0.0-pcm.zip",
                     "install_size": 63634
                 },
-				{
+                {
                     "version": "1.1.0",
                     "status": "stable",
                     "kicad_version": "7.0",
