@@ -9,9 +9,9 @@
     },
     "name": "Oldschool computers repository",
     "packages": {
-        "sha256": "679355cfce534feb9b17ebeeff575250770717cb6e8aaedfbd9f92b8da0bb8ce",
-        "update_time_utc": "2023-06-27 18:44:00",
-        "update_timestamp": 1687884240,
+        "sha256": "e4774bc981cde3c3913245a73a1970c28dc61c8b6da01e46009062377404eb91",
+        "update_time_utc": "2023-06-27 18:52:00",
+        "update_timestamp": 1687884720,
         "url": "https://raw.githubusercontent.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository/main/packages.json"
     },
     "resources": {
