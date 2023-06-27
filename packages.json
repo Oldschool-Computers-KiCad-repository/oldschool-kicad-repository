@@ -41,7 +41,7 @@
                     "download_size": 1930025,
                     "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.1.0/gpib-kicad-library-1.1.0-pcm.zip",
                     "install_size": 15466528
-                }
+                },
                 {
                     "version": "1.2.0",
                     "status": "stable",
