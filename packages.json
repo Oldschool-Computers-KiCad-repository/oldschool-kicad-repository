@@ -52,6 +52,40 @@
                     "install_size": 15498885
                 }
             ]
+        },
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "type": "library",
+            "name": "Tektronix KiCad library",
+            "description": "KiCad Symbol Library for Tektronix components.",
+            "description_full": "KiCad Symbol Library for Tektronix components.",
+            "identifier": "fr.alba0404.oldschool-kicad-repository.tektronix-kicad-library",
+            "license": "CC-BY-SA-4.0",
+            "author": {
+                "name": "Alexandre Barrat (Alba0404)",
+                "contact": {
+                    "email": "alba0404@orange.fr",
+                    "web": "https://github.com/Alba0404"
+                }
+            },
+            "resources": {
+                "github": "https://github.com/Oldschool-Computers-KiCad-repository/tektronix-kicad-library"
+            },
+            "tags": [
+                "footprints",
+                "tektronix"
+			],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "7.0",
+                    "download_sha256": "ae8abd41081cdbd53a8fd51f4cfe40375afdf632686e981785233a127aa0b101",
+                    "download_size": 2754,
+                    "download_url": "https://github.com/Oldschool-Computers-KiCad-repository/tektronix-kicad-library/releases/download/1.0.0/tektronix-kicad-library-1.0.0-pcm.zip",
+                    "install_size": 23103
+                }
+            ]
         }
     ]
 }
