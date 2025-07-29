@@ -95,6 +95,43 @@
                     "install_size": 23103
                 }
             ]
+        },
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "type": "library",
+            "name": "Z80 KiCad library",
+            "description": "Add Z80s components to KiCad.",
+            "description_full": "KiCad Symbol Library for Z80, Z84, Z8000, ... components",
+            "identifier": "fr.alba0404.oldschool-kicad-repository.z80-kicad-library",
+            "license": "CC-BY-SA-4.0",
+            "author": {
+                "name": "Alexandre Barrat (Alba0404)",
+                "contact": {
+                    "email": "alba0404@orange.fr",
+                    "web": "https://github.com/Alba0404"
+                }
+            },
+            "resources": {
+                "github": "https://github.com/Oldschool-Computers-KiCad-repository/z80-kicad-library"
+            },
+            "tags": [
+                "footprints",
+                "symbols",
+                "z80",
+                "z84",
+                "z8000",
+			],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "7.0",
+                    "download_sha256": "03b574a611d3172d2f4a2e2e15299f144cfc6ce00611ca33bf62184b2098dd31",
+                    "download_size": 10316,
+                    "download_url": "https://github.com/Oldschool-Computers-KiCad-repository/z80-kicad-library/releases/download/1.0.0/z80-kicad-library-1.0.0-pcm.zip",
+                    "install_size": 16384
+                }
+            ]
         }
     ]
 }
