@@ -148,7 +148,7 @@
             "name": "Interface_UART_MaxLinear",
             "description": "KiCad Library for UART interfaces from MaxLinear.",
             "description_full": "KiCad Library for UART interfaces from MaxLinear.",
-            "identifier": "fr.alba0404.oldschool-kicad-repository.interface_uart_maxlinear",
+            "identifier": "fr.alba0404.oldschool-kicad-repository.interface-uart-maxlinear",
             "license": "CC-BY-SA-4.0",
             "author": {
                 "name": "Alexandre Barrat (Alba0404)",
