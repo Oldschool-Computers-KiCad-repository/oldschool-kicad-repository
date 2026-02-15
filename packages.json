@@ -141,6 +141,42 @@
                     "install_size": 16384
                 }
             ]
+        },
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "type": "library",
+            "name": "Interface_UART_MaxLinear",
+            "description": "KiCad Library for UART interfaces from MaxLinear.",
+            "description_full": "KiCad Library for UART interfaces from MaxLinear.",
+            "identifier": "fr.alba0404.oldschool-kicad-repository.interface_uart_maxlinear",
+            "license": "CC-BY-SA-4.0",
+            "author": {
+                "name": "Alexandre Barrat (Alba0404)",
+                "contact": {
+                    "email": "alba0404@orange.fr",
+                    "web": "https://github.com/Alba0404"
+                }
+            },
+            "resources": {
+                "github": "https://github.com/Oldschool-Computers-KiCad-repository/Interface_UART_MaxLinear"
+            },
+            "tags": [
+                "footprints",
+                "symbols",
+                "3dshapes",
+                "UART"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "9.0",
+                    "download_sha256": "90e1d974220b468ac06abbda24fc7f1fd9803549a1ed80a20fcefd578c2d2225",
+                    "download_size": 29727,
+                    "download_url": "https://github.com/Oldschool-Computers-KiCad-repository/Interface_UART_MaxLinear/releases/download/1.0.0/Interface_UART_MaxLinear__1.0.0__pcm.zip",
+                    "install_size": 36864
+                }
+            ]
         }
     ]
 }
