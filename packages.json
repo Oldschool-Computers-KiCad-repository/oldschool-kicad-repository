@@ -30,7 +30,7 @@
                     "kicad_version": "7.0",
                     "download_sha256": "85a10161303dbb09aed6dfbad3162a69523db9cefbdae313fd449f7347c23ae0",
                     "download_size": 10329,
-                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.0.0/gpib-kicad-library-1.0.0-pcm.zip",
+                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.0.0/gpib-kicad-library__1.0.0__pcm.zip",
                     "install_size": 63634
                 },
                 {
@@ -39,7 +39,7 @@
                     "kicad_version": "7.0",
                     "download_sha256": "7e4b526fdb3c5dfb0a3bac49c243165c154edfa97776d2f4845f66caa87b6208",
                     "download_size": 1930025,
-                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.1.0/gpib-kicad-library-1.1.0-pcm.zip",
+                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.1.0/gpib-kicad-library__1.1.0__pcm.zip",
                     "install_size": 15466528
                 },
                 {
@@ -48,7 +48,7 @@
                     "kicad_version": "7.0",
                     "download_sha256": "a3c810f57ecb88679929f1b66f953e6d2d0d0a560753ec383fb8bf021635d92f",
                     "download_size": 1931866,
-                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.2.0/gpib-kicad-library-1.2.0-pcm.zip",
+                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.2.0/gpib-kicad-library__1.2.0__pcm.zip",
                     "install_size": 15498885
                 },
                 {
@@ -57,7 +57,7 @@
                     "kicad_version": "8.0",
                     "download_sha256": "83092899a1ea6a2549e5816fafaf2b0987999a122d9c0d234ac532b0a735d3b3",
                     "download_size": 1933603,
-                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.3.0/gpib-kicad-library-1.3.0-pcm.zip",
+                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.3.0/gpib-kicad-library__1.3.0__pcm.zip",
                     "install_size": 15556150
                 },
                 {
@@ -66,7 +66,7 @@
                     "kicad_version": "9.0",
                     "download_sha256": "0c47017f69390ece1a7a15b9d459bed1d123e55ac6505938b55eab135ad9e7cb",
                     "download_size": 1941818,
-                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.4.0/gpib-kicad-library_1.4.0_pcm.zip",
+                    "download_url": "https://github.com/Alba0404/gpib-kicad-library/releases/download/1.4.0/gpib-kicad-library__1.4.0__pcm.zip",
                     "install_size": 15701962
                 }
             ]
@@ -100,7 +100,7 @@
                     "kicad_version": "7.0",
                     "download_sha256": "ae8abd41081cdbd53a8fd51f4cfe40375afdf632686e981785233a127aa0b101",
                     "download_size": 2754,
-                    "download_url": "https://github.com/Oldschool-Computers-KiCad-repository/tektronix-kicad-library/releases/download/1.0.0/tektronix-kicad-library-1.0.0-pcm.zip",
+                    "download_url": "https://github.com/Oldschool-Computers-KiCad-repository/tektronix-kicad-library/releases/download/1.0.0/tektronix-kicad-library__1.0.0__pcm.zip",
                     "install_size": 23103
                 }
             ]
@@ -137,7 +137,7 @@
                     "kicad_version": "7.0",
                     "download_sha256": "03b574a611d3172d2f4a2e2e15299f144cfc6ce00611ca33bf62184b2098dd31",
                     "download_size": 10316,
-                    "download_url": "https://github.com/Oldschool-Computers-KiCad-repository/z80-kicad-library/releases/download/1.0.0/z80-kicad-library-1.0.0-pcm.zip",
+                    "download_url": "https://github.com/Oldschool-Computers-KiCad-repository/z80-kicad-library/releases/download/1.0.0/z80-kicad-library__1.0.0__pcm.zip",
                     "install_size": 16384
                 }
             ]
